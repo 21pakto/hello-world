@@ -1,2 +1,3 @@
 # hello-world
 Saying hi to the world, because it is a tradition I think...
+I'm Tobias and I like coding, volleyball, gaming, and food.
